@@ -1,0 +1,560 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.287588357925415,
+          51.309473506040874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.289154767990112,
+          51.30975183496583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.28894555568695,
+          51.309885968784634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.287872672080994,
+          51.309718301449834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.366005420684814,
+          51.31745048150103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.365876674652098,
+          51.31751418442368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.380483984947205,
+          51.308993971523506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391368389129639,
+          51.30284341322284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.391867280006409,
+          51.30256168852069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.40080976486206,
+          51.297597683936154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.397183418273926,
+          51.295108771493624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.403379321098328,
+          51.29319335751098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.315435051918028,
+          51.33667468954463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.316422104835508,
+          51.33231098185431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.319066762924194,
+          51.32931781471199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.509010076522827,
+          51.250741914997924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.50816786289215,
+          51.25085271767695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.508500456809998,
+          51.25071505370219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.508918881416319,
+          51.25054717024834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.517062067985533,
+          51.24608460337998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.560529947280884,
+          51.17599343725811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.560449481010437,
+          51.17636337855289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.557740449905396,
+          51.174002429497136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.556174039840698,
+          51.17438583970255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.559049367904663,
+          51.16647483612149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.561484813690186,
+          51.158858540538915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.561264872550964,
+          51.15945066513397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#3c5",
+        "marker-size": "medium",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.561463356018066,
+          51.15942711486909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#22e",
+        "marker-size": "medium",
+        "marker-symbol": "rail"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.561538457870483,
+          51.15923198364021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.286874890327454,
+          51.309255536426924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.290361762046812,
+          51.31093219911472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.285818099975586,
+          51.30981219523281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.280164003372192,
+          51.30824280248619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.275448679924011,
+          51.31160620025073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.268378376960754,
+          51.313346485756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.315461874008179,
+          51.3224626253213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.347755670547485,
+          51.3257277675319
+        ]
+      }
+    }
+  ]
+}
