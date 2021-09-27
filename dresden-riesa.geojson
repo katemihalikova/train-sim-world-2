@@ -570,6 +570,36 @@
           51.16288887480522
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.466620445251463,
+          51.26960809811578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#aba61c",
+        "marker-size": "medium",
+        "marker-symbol": "art-gallery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.493131399154663,
+          51.27015181278037
+        ]
+      }
     }
   ]
 }
