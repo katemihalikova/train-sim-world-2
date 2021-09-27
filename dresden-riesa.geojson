@@ -555,6 +555,21 @@
           51.3257277675319
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e22",
+        "marker-size": "medium",
+        "marker-symbol": "triangle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.574890494346617,
+          51.16288887480522
+        ]
+      }
     }
   ]
 }
